@@ -15,8 +15,6 @@ namespace GraphicalTestApp
             Actor root = new Actor();
             game.Root = root;
 
-            //## Set up game here ##//
-
             game.Run();
         }
     }

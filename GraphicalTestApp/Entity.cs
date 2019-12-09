@@ -29,7 +29,7 @@ namespace GraphicalTestApp
             set
             {
 
-            }
+            } 
         }
         public float YVelocity
         {
